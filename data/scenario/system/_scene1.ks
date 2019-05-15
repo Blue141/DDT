@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/room.jpg"  ]
+[preload  storage="./data/fgimage/chara/2/จิงจอก2.png"  ]
+[preload  storage="./data/fgimage/chara/1/จอมมาร2.png"  ]
+[preload  storage="./data/fgimage/chara/2/จิงจอก.png"  ]
+[preload  storage="./data/fgimage/chara/1/จอมมาร.png"  ]
+[preload  storage="./data/fgimage/chara/1/จอมมาร4.png"  ]
+[preload  storage="./data/fgimage/chara/2/จิงจอก4.png"  ]
+[return]
